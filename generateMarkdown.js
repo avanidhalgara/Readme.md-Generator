@@ -17,6 +17,9 @@ const asyncFileWrite = util.promisify(fs.writeFile)
         case "mit":
         licenseBadge ="![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)"
         break;
+        case "apache-2.0":
+        licenseBadge = "![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)"
+        break;
 
 
     }    
