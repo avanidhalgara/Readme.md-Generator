@@ -1,17 +1,15 @@
-# fadsfa 
+# Readme.md 
 
  
 
 ## Description
 
-fadsf
+Generated Readme.md in node.js
 
 
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  fasdf
-
-  ## Table of contents
+ ## Table of contents
 
  
  * [Installation Instruction](#Installation) 
@@ -30,24 +28,34 @@ fadsf
 
  ## <a name ='UsageInstruction'></a>
 
-## <a name = 'TestInstruction'>Test</a>
+## <a name = 'TestInstruction'></a>
 
- [dfadsf](https://github.com/dfadsf)
+ [avanidhalgara](https://github.com/avanidhalgara)
 
-fafsadf
+avanidhalgra01@gmail.com
  
 ## Installation
 
 >To install the needed dependencies, run this command:
 
 ```
-fasdf
+npm install
 ```
 
 
-fadsf
+
+
+ 
+## TestInstruction
+
+>To run tests, run this command:
+
+```
+npm i
+```
+
 
 
 ## Questions
 
-If you have any questions, please open an issue or contact [fafsadf](https://github.com/dfadsf).
+If you have any questions, please open an issue or contact [avanidhalgara](https://github.com/avanidhalgara).
